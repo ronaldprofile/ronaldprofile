@@ -1,6 +1,6 @@
 ### Hi 👋, I'am Ronald Tomaz
 
-I am a  _web_ _developer_ _junior_ </br>
+```I am a web developer junior ```</br>
 Welcome to my profile. Here you can see all **my projects**.
 
 
