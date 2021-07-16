@@ -1,7 +1,6 @@
-### Hi 👋 I'm Ronald Tomaz
+# Hi 👋 I'm Ronald Tomaz
 
-```I'm a web developer junior ```</br>
-Welcome to my profile. Here you can see all **my projects**. </br>
+### Welcome to my profile. Here you can see all **my projects**. </br>
 
 
 ### Let's connect and exchange ideas?
